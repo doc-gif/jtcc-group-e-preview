@@ -1,5 +1,16 @@
 [
   {
+    "pr": 74,
+    "sha": "66678116aad5c133a3265793564d817a88ddffbe",
+    "runId": 36246483033,
+    "artifactId": 10907049963,
+    "repository": "doc-gif/jtcc-group-e",
+    "stage": "early",
+    "digest": "876ac8d08dfe970bc29c313b32e4a2eeb96e5c07bdb2936a1c55e26a6c84a18a",
+    "bytes": 2143182,
+    "createdAt": "2026-09-26T13:51:32.189Z"
+  },
+  {
     "pr": 130,
     "sha": "fa6c36a0fe7c7d9d117d1f63c8db98cf34c7436f",
     "runId": 36246100963,
@@ -669,17 +680,6 @@
     "digest": "b462aee6b77b1e22db55f2fe0891694a7e29429f82bc5a9d3c8e3282ab2394a7",
     "bytes": 2130932,
     "createdAt": "2026-09-26T07:45:15.414Z"
-  },
-  {
-    "pr": 74,
-    "sha": "74f30a3d1ece6b528c20ec240d7ed95fec164282",
-    "runId": 36227470411,
-    "artifactId": 10901043670,
-    "repository": "doc-gif/jtcc-group-e",
-    "stage": "early",
-    "digest": "4bc1243f63ed6e434b39604bac7cb2918341a8ceb41b18976d4b78f70e694c4f",
-    "bytes": 2132080,
-    "createdAt": "2026-09-26T07:42:21.841Z"
   },
   {
     "pr": 62,
