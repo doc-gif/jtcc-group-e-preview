@@ -1,5 +1,16 @@
 [
   {
+    "pr": 28,
+    "sha": "02c993feaa65c227f42822de9df4d2b07bcda5fc",
+    "runId": 36208983462,
+    "artifactId": 10894749127,
+    "repository": "doc-gif/jtcc-group-e",
+    "stage": "early",
+    "digest": "14f8590dd8479ed8c392abeb56a7c1f1d5321b21442add49e101c11535b1eb64",
+    "bytes": 1839847,
+    "createdAt": "2026-09-26T01:37:28.300Z"
+  },
+  {
     "pr": 26,
     "sha": "e0e6a245e4cdffda1d2ae6d5883aaa03da41ee84",
     "runId": 36208887633,
